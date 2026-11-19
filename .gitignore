@@ -1,0 +1,17 @@
+# Firebase - NÃO enviar para o GitHub
+google-services.json
+app/google-services.json
+
+# Android Studio / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab

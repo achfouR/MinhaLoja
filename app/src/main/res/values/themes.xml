@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MinhaLoja" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorPrimaryVariant">@color/primaria_escura</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/destaque</item>
+        <item name="android:windowBackground">@color/fundo</item>
+    </style>
+</resources>
